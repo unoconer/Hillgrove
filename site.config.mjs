@@ -15,7 +15,7 @@
 export default {
   site: {
     url: 'https://hillgrove.netlify.app', // no trailing slash
-    googleSiteVerification: null, // Search Console HTML-tag "content" value
+    googleSiteVerification: 'lSPug_WgQjQUE7yzFmKn7kmZj3qvnN3DkkXwYH-b0zI', // Search Console HTML-tag "content" value
     locale: 'en_US',
     language: 'en-US',
   },
